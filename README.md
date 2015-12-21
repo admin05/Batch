@@ -1,2 +1,2 @@
 # Batch
-## My useful batch files under windows
+## My useful batch files for windows
